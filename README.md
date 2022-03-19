@@ -1,2 +1,2 @@
 # Python_For_Everybody
-Notes on python
+My Self Made Notes on python.
