@@ -18,12 +18,15 @@
     * Read and write into files 
     * How to deal with incorrect file names?
 
-## - Week1.py
-  * Strings
-    * Indexing
-    * Concatenation
-    * Looping and Counting 
-    * Slicing
-    * 'in' and logical Operators
-    * dir(), find(), .lower(), .upper(), replace(), lstrip(), rstrip(), startswith()
-    * parsing and extracting
+## - Week4.py
+
+Data Structures
+  * Lists
+    * Declaration
+    * mutable
+    * len(), range()
+    * Concatenate and Slicing
+    * list methods
+    * append()
+    * String and Lists
+    * Split
