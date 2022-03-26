@@ -30,3 +30,11 @@ Data Structures
     * append()
     * String and Lists
     * Split
+
+## - Week5.py
+  * Dictionaries
+    * Dictionaries vs lists
+    * Dictionaries literals
+    * get method
+    * counting pattern
+    * Iteration variables
