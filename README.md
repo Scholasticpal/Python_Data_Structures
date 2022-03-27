@@ -38,3 +38,11 @@ Data Structures
     * get method
     * counting pattern
     * Iteration variables
+
+## - Week6.py
+  * Tuples
+    * Declaration
+    * list vs string vs tuple
+    * tuples properties: assigning, comparability
+    * Sorting Lists of Tuples
+
