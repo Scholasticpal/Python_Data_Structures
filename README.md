@@ -1,6 +1,20 @@
 # Python_For_Everybody
 ## My Self Made Notes on python.
 
+## Easy_ques folder:
+Some python practice questions
+
+* Q1 - from a list of no. find div by 5 and stop iteration when reached 150
+* Q2 - Descending number pyramid
+* Q3 - Factorial of a number
+* Q4 - Fibonacci Series
+* Q5 - simple calculator
+* Q6 - H.C.F of 2 numbers
+* Q7 - prime factors of a number
+* Q8 - power of a number without inbuilt function
+* Q9 - square root
+
+
 ## - Week1.py
   * Strings
     * Indexing
